@@ -18,8 +18,8 @@ let allMusic = [
     src: "music-3"
   },
   {
-    name: "Hardwind - Want Me",
-    artist: "Mike Archangelo",
+    name: "Dневник Dжессики - Когда ты улыбаешься",
+    artist: "Dневник Dжессики",
     img: "music-4",
     src: "music-4"
   },
@@ -34,6 +34,12 @@ let allMusic = [
     artist: "NCS Release",
     img: "music-6",
     src: "music-6"
+  },
+  {
+    name: "Big Time Rush - Windows Down",
+    artist: "Big Time Rush",
+    img: "music-7",
+    src: "music-7"
   },
 
 ];

@@ -14,7 +14,7 @@
   --black: #000000;
   --violet: #000000;
   --lightblack: #000000;
-  --white: gold;
+  --gold: gold;
   --darkwhite: #cecaca;
   --blackshadow: #ffcbdd;
   --lightbshadow: rgba(0,0,0,0.15);
@@ -35,7 +35,7 @@ body{
   overflow: hidden;
   position: relative;
   border-radius: 15px;
-  background: var(--white);
+  background: var(--gold);
   box-shadow: 0px 6px 15px var(--lightbshadow);
 }
 .wrapper i{
@@ -156,7 +156,7 @@ body{
   align-items: center;
   justify-content: center;
   border-radius: 50%;
-  background: linear-gradient(var(--white) 0%, var(--darkwhite) 100%);
+  background: linear-gradient(var(--gold) 0%, var(--darkwhite) 100%);
   box-shadow: 0px 0px 5px var(--black);
 }
 .play-pause::before{
@@ -181,7 +181,7 @@ body{
 
 .music-list{
   position: absolute;
-  background: var(--white);
+  background: var(--gold);
   width: 100%;
   left: 0;
   bottom: -55%;
