@@ -61,7 +61,7 @@ function initialize(){
     window.requestAnimationFrame(draw);
 }
 
-myFile.onchange = function(){ 
+file.onchange = function(){ 
     audio = document.getElementById("audio");
     var reader = new FileReader();
     reader.onload = function(e){
