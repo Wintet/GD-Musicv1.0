@@ -72,8 +72,8 @@ body{
     height: 350px;
     padding: 0;
     display: block;
-    position: absolute;
-    top: 490px;
+    position: fixed;
+    top: 404px;
     bottom: 0;
     left: 0;
     right: 0;
